@@ -60,6 +60,5 @@ My ![Visitor Count](https://profile-counter.glitch.me/sanyecao0/count.svg) visit
 
 <br/>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyecao0)](https://github.com/sanyecao0/github-readme-stats)
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanyecao0&show_icons=true&theme=tokyonight)
